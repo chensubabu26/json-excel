@@ -3,47 +3,68 @@
     "lastName":"Verma",
     "email":"example@gmail.com",
     "Mob:":1234567890,
-    "country":"India"
+    "country":"India",
+    "maths":95,
+    "physics":85,
+    "chemistry":90
     },
     {
     "firstName":"Shubham",
     "lastName":"Verma",
-    "email":"example@gmail.com",
+    "email":"example1@gmail.com",
     "Mob:":1234567890,
-    "country":"India"
+    "country":"India",
+    "maths":90,
+    "physics":80,
+    "chemistry":95
     },
     {
     "firstName":"Shubham",
     "lastName":"Verma",
-    "email":"example@gmail.com",
+    "email":"example2@gmail.com",
     "Mob:":1234567890,
-    "country":"India"
+    "country":"India",
+    "maths":95,
+    "physics":75,
+    "chemistry":80
     },
     {
     "firstName":"Shubham",
     "lastName":"Verma",
-    "email":"example@gmail.com",
+    "email":"example3@gmail.com",
     "Mob:":1234567890,
-    "country":"India"
+    "country":"India",
+    "maths":95,
+    "physics":85,
+    "chemistry":90
     },
     {
     "firstName":"Shubham",
     "lastName":"Verma",
-    "email":"example@gmail.com",
+    "email":"example4@gmail.com",
     "Mob:":1234567890,
-    "country":"India"
+    "country":"India",
+    "maths":95,
+    "physics":96,
+    "chemistry":100
     },
     {
     "firstName":"Shubham",
     "lastName":"Verma",
-    "email":"example@gmail.com",
+    "email":"example5@gmail.com",
     "Mob:":1234567890,
-    "country":"India"
+    "country":"India",
+    "maths":97,
+    "physics":86,
+    "chemistry":90
     },
     {
     "firstName":"Shubham",
     "lastName":"Verma",
-    "email":"example@gmail.com",
+    "email":"example6@gmail.com",
     "Mob:":1234567890,
-    "country":"India"
+    "country":"India",
+    "maths":76,
+    "physics":88,
+    "chemistry":99
     }]
